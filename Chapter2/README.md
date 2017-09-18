@@ -7,9 +7,16 @@ Simulation Algorithms & String Manipulation Skills
 
 ## 电面经典模拟题
 
-### Sliding Window Average from Data Stream
+### 642. Sliding Window Average from Data Stream
 
-- [Lintcode](http://lintcode.com/en/problem/sliding-window-average-from-data-stream/)
-- [Solution](http://jiuzhang.com/solutions/sliding-window-average-from-data-stream/)
+[Lintcode](http://lintcode.com/en/problem/sliding-window-average-from-data-stream/) 
+| [Online Solution](http://jiuzhang.com/solutions/sliding-window-average-from-data-stream/)
+| [Java Solution](642.sliding-window-average-from-data-stream.java) | 
+[Cpp Solution](642.sliding-window-average-from-data-stream.cpp)
 
-## 
+### 640. Edit Distance II
+
+[Lintcode](http://lintcode.com/en/problem/edit-distance-ii/) 
+| [Online Solution](http://jiuzhang.com/solutions/edit-distance-ii/)
+| [Java Solution](640.edit-distance-ii.java) | 
+[Cpp Solution](640.edit-distance-ii.cpp)
