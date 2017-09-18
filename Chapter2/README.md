@@ -20,3 +20,13 @@ Simulation Algorithms & String Manipulation Skills
 | [Online Solution](http://jiuzhang.com/solutions/edit-distance-ii/)
 | [Java Solution](640.edit-distance-ii.java) | 
 [Cpp Solution](640.edit-distance-ii.cpp)
+
+
+## 系统操作模拟题
+
+### 660. Read Characters From File - multiple calls
+
+[Lintcode](http://lintcode.com/en/problem/read-characters-from-file-multiple-calls/) 
+| [Online Solution](http://jiuzhang.com/solutions/read-characters-from-file-multiple-calls/)
+| [Java Solution](660.read-characters-from-file-multiple-calls.java) | 
+[Cpp Solution](660.read-characters-from-file-multiple-calls.cpp)
