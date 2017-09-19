@@ -14,6 +14,7 @@ Simulation Algorithms & String Manipulation Skills
 | [Java Solution](642.sliding-window-average-from-data-stream.java) | 
 [Cpp Solution](642.sliding-window-average-from-data-stream.cpp)
 
+
 ### 640. Edit Distance II
 
 [Lintcode](http://lintcode.com/en/problem/edit-distance-ii/) 
@@ -30,3 +31,22 @@ Simulation Algorithms & String Manipulation Skills
 | [Online Solution](http://jiuzhang.com/solutions/read-characters-from-file-multiple-calls/)
 | [Java Solution](660.read-characters-from-file-multiple-calls.java) | 
 [Cpp Solution](660.read-characters-from-file-multiple-calls.cpp)
+
+
+### 659. Strings Serialization
+
+[Lintcode](http://lintcode.com/en/problem/strings-serialization/) 
+| [Online Solution](http://jiuzhang.com/solutions/strings-serialization/)
+| [Java Solution](659.strings-serialization.java) | 
+[Cpp Solution](659.strings-serialization.cpp)
+
+
+### 643. System Longest File Path
+
+[Lintcode](http://lintcode.com/en/problem/system-longest-file-path/) 
+| [Online Solution](http://jiuzhang.com/solutions/system-longest-file-path/)
+| [Java Solution](643.system-longest-file-path.java) | 
+[Cpp Solution](643.system-longest-file-path.cpp)
+
+
+
