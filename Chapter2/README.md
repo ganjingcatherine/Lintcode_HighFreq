@@ -49,4 +49,23 @@ Simulation Algorithms & String Manipulation Skills
 [Cpp Solution](643.system-longest-file-path.cpp)
 
 
+## 罗马数字转换题
+
+### 419. Roman to Integer
+
+[Lintcode](http://lintcode.com/en/problem/roman-to-integer/) 
+| [Online Solution](http://jiuzhang.com/solutions/roman-to-integer/)
+| [Java Solution](419.roman-to-integer.java) | 
+[Cpp Solution](419.roman-to-integer.cpp)
+
+
+### 418. Integer to Roman
+
+[Lintcode](http://lintcode.com/en/problem/integer-to-roman/) 
+| [Online Solution](http://jiuzhang.com/solutions/integer-to-roman/)
+| [Java Solution](418.integer-to-roman.java) | 
+[Cpp Solution](418.integer-to-roman.cpp)
+
+
+
 
