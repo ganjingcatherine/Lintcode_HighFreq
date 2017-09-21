@@ -67,5 +67,14 @@ Simulation Algorithms & String Manipulation Skills
 [Cpp Solution](418.integer-to-roman.cpp)
 
 
+## 简单智力类问题
 
+### 645. Identify Celebrity
 
+[Lintcode](http://lintcode.com/en/problem/identify-celebrity/) 
+| [Online Solution](http://jiuzhang.com/solutions/identify-celebrity/)
+| [Java Solution](645.identify-celebrity.java) 
+| [Cpp Solution](645.identify-celebrity.cpp)
+| [Blog](http://blog.liuk.ai/645-identify-celebrity/)
+
+    
