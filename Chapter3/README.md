@@ -58,6 +58,21 @@
 | [Blog](http://blog.liuk.ai/648-word-abbreviation-set/)
 
     
+### 124. Longest Consecutive Sequence
 
+[Lintcode](http://lintcode.com/en/problem/longest-consecutive-sequence/) 
+| [Online Solution](http://jiuzhang.com/solutions/longest-consecutive-sequence/)
+| [Java Solution](124.longest-consecutive-sequence.java) 
+| [Cpp Solution](124.longest-consecutive-sequence.cpp)
+| [Blog](http://blog.liuk.ai/124-longest-consecutive-sequence/)
+
+    
+### 526. Load Balancer
+
+[Lintcode](http://lintcode.com/en/problem/load-balancer/) 
+| [Online Solution](http://jiuzhang.com/solutions/load-balancer/)
+| [Java Solution](526.load-balancer.java) 
+| [Cpp Solution](526.load-balancer.cpp)
+| [Blog](http://blog.liuk.ai/526-load-balancer/)
 
     
