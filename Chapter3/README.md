@@ -19,5 +19,45 @@
 | [Cpp Solution](156.merge-intervals.cpp)
 | [Blog](http://blog.liuk.ai/156-merge-intervals/)
 
+    
+### 30. Insert Interval
+
+[Lintcode](http://lintcode.com/en/problem/insert-interval/) 
+| [Online Solution](http://jiuzhang.com/solutions/insert-interval/)
+| [Java Solution](30.insert-interval.java) 
+| [Cpp Solution](30.insert-interval.cpp)
+| [Blog](http://blog.liuk.ai/30-insert-interval/)
+
+
+## Hash 字符/字符串统计类问题
+    
+### 646. First Position Unique Character
+
+[Lintcode](http://lintcode.com/en/problem/first-position-unique-character/) 
+| [Online Solution](http://jiuzhang.com/solutions/first-position-unique-character/)
+| [Java Solution](646.first-position-unique-character.java) 
+| [Cpp Solution](646.first-position-unique-character.cpp)
+| [Blog](http://blog.liuk.ai/646-first-position-unique-character/)
+
+    
+### 647. Substring Anagrams
+
+[Lintcode](http://lintcode.com/en/problem/substring-anagrams/) 
+| [Online Solution](http://jiuzhang.com/solutions/substring-anagrams/)
+| [Java Solution](647.substring-anagrams.java) 
+| [Cpp Solution](647.substring-anagrams.cpp)
+| [Blog](http://blog.liuk.ai/647-substring-anagrams/)
+
+    
+### 648. Word Abbreviation Set
+
+[Lintcode](http://lintcode.com/en/problem/word-abbreviation-set/) 
+| [Online Solution](http://jiuzhang.com/solutions/word-abbreviation-set/)
+| [Java Solution](648.word-abbreviation-set.java) 
+| [Cpp Solution](648.word-abbreviation-set.cpp)
+| [Blog](http://blog.liuk.ai/648-word-abbreviation-set/)
+
+    
+
 
     

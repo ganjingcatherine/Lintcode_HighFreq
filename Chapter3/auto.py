@@ -33,9 +33,10 @@ $No. $Title
 
 
 #### Solution  
-Time complexity `O(n)`
 
-*Implementation*
+
+*Implementation*  
+Time complexity `O(n)`
 ```language-java line-numbers
 
 ```
