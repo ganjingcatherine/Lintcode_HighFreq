@@ -66,6 +66,9 @@
 | [Cpp Solution](124.longest-consecutive-sequence.cpp)
 | [Blog](http://blog.liuk.ai/124-longest-consecutive-sequence/)
 
+
+
+## 综合应用问题
     
 ### 526. Load Balancer
 
